@@ -1,4 +1,4 @@
-Zautomatyzowany algorytm
+<h3>Zautomatyzowany algorytm</h3><br>
 Projekt zrealizowany na potrzeby jednego z zadań na uczelni. Moim celem było stworzenie narzędzia, 
 które będzie jak najbardziej zoptymalizowane, przyśpieszy proces obliczeń i wprowadzanych zmian.
 Arkusz, który stworzyłem służy do obliczeń całego projektu.
